@@ -24,10 +24,12 @@ Me gusta hacer soluciones pulcras y procuro siempre mejorar los procesos, o al m
 <samp>
 🌱 Actualmente aprendiendo:<br>
 - 🚀 Astro <br>
+- 🎨 Tailwind CSS <br>
 - ☁️ Estudiando para la certificación AWS Cloud Practitioner<br>
 </samp>
 
 [![Astro](https://img.shields.io/badge/-Astro-000?logo=astro&logoColor=white)](https://astro.build/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/-AWS_Certified_Cloud_Practitioner-232F3E)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 
