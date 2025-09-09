@@ -12,7 +12,7 @@ Me gusta hacer soluciones pulcras y procuro siempre mejorar los procesos, o al m
 
 <div align="center" >
   <samp>
-    webside: <a href="" target="_blank">en desarrollo</a> •
+    webside: <a href="cmalmierca.vercel.app" target="_blank">cmalmierca.vercel.app</a> •
     <!--cv: <a href="" target="_blank"></a> • -->
     email: <a href="mailto:cmsalvador92@gmail.com">cmsalvador92@gmail.com</a> •
     linkedin: <a href="https://www.linkedin.com/in/cristina-malmierca/">perfil</a>
