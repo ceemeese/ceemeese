@@ -39,7 +39,7 @@ Me gusta hacer soluciones pulcras y procuro siempre mejorar los procesos, o al m
   Tecnologías
 </samp>
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,cs,html,css,vue,vuetify,pinia,bootstrap,sass,nodejs,express,dotnet,mysql,sqlite,jest,prometheus,grafana,aws,docker,kubernetes,githubactions,linux,bash,git,figma,postman,vscode,rider&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,cs,html,css,vue,vuetify,pinia,bootstrap,sass,nodejs,express,dotnet,mysql,jest,aws,docker,kubernetes,githubactions,figma,postman&perline=10)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceemeese&layout=compact&bg_color=b0b0b0&title_color=333333&icon_color=333333&hide_border=true)
